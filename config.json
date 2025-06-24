@@ -1,4 +1,0 @@
-{
-  "websocket_url": "ws://your-backend-server.com/ws/tasks",
-  "api_token": "your-gologin-api-token"
-}
